@@ -1,0 +1,100 @@
+.Input___2__FKZWA {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-color: rgb(202, 202, 202);
+  border-top-style: solid;
+  border-right-color: rgb(202, 202, 202);
+  border-right-style: solid;
+  border-bottom-color: rgb(202, 202, 202);
+  border-bottom-style: solid;
+  border-left-color: rgb(202, 202, 202);
+  border-left-style: solid;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+@media (min-width: 850px) {
+  .Input___2--baseLg__FKZWAgrF4s_2ebQ8 {
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+}
+.Input___2--focusWithin__FKZWAlOHbU {
+  box-shadow: 0px 0px 0.5px 2px rgba(65, 105, 255, 0.5);
+}
+@media (min-width: 850px) {
+  .Input___2--focusWithinLg__FKZWAlOHbU_2ebQ8 {
+    box-shadow: 0px 0px 0px 6px rgba(65, 105, 255, 0.5);
+  }
+}
+.Input___2__FKZWA:hover {
+}
+.Input___3__fU--7 {
+  position: relative;
+  object-fit: contain;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+@media (min-width: 850px) {
+  .Input___3--baseLg__fU--7grF4s_2ebQ8 {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+}
+.Input__input__3ZE5b {
+  width: 100%;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-left: 12px;
+  border-top-style: none;
+  border-top-width: 0px;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-left-style: none;
+  border-left-width: 0px;
+  background-color: rgba(68, 192, 255, 0);
+}
+@media (min-width: 850px) {
+  .Input__input--baseLg__3ZE5bgrF4s_2ebQ8 {
+    font-size: 26px;
+    padding-left: 18px;
+  }
+}
+.Input__input--focusWithin__3ZE5blOHbU {
+}
+.Input__input__3ZE5b {
+}

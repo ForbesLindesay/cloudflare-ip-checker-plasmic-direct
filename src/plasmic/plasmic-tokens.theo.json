@@ -1,0 +1,79 @@
+{
+  "props": [
+    {
+      "name": "green-500",
+      "type": "color",
+      "value": "rgb(72,187,120)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "sLjHCLP2j"
+      }
+    },
+    {
+      "name": "indigo-200",
+      "type": "color",
+      "value": "rgb(195,218,254)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "3armAo_JX"
+      }
+    },
+    {
+      "name": "indigo-500",
+      "type": "color",
+      "value": "rgb(102,126,234)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "kDkPsrVvs"
+      }
+    },
+    {
+      "name": "indigo-900",
+      "type": "color",
+      "value": "rgb(60,54,107)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "RW6VGzIAj"
+      }
+    },
+    {
+      "name": "orange-500",
+      "type": "color",
+      "value": "rgb(237,137,54)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "5SyWwzIl-"
+      }
+    },
+    {
+      "name": "red-500",
+      "type": "color",
+      "value": "rgb(245,101,101)",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "RPH_tZdpl"
+      }
+    },
+    {
+      "name": "white",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "id": "tTiozinNf"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

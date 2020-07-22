@@ -1,0 +1,122 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "direct"
+  },
+  "style": {
+    "scheme": "css",
+    "defaultStyleCssFilePath": "__internals__/plasmic__default_style.css"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "./src/plasmic",
+  "defaultPlasmicDir": "./__internals__",
+  "projects": [
+    {
+      "projectId": "ventExTyscvZpogFdoiw6H",
+      "projectName": "Cloudflare IP Checker",
+      "version": "latest",
+      "cssFilePath": "__internals__/untitled_project/plasmic_untitled_project.css",
+      "components": [
+        {
+          "id": "QZOzF_lZac",
+          "name": "MainPage",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/untitled_project/PlasmicMainPage.tsx",
+          "importSpec": {
+            "modulePath": "MainPage.tsx"
+          },
+          "cssFilePath": "__internals__/untitled_project/PlasmicMainPage.css",
+          "scheme": "direct"
+        },
+        {
+          "id": "J0L08V-7zH",
+          "name": "Input",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/untitled_project/PlasmicInput.tsx",
+          "importSpec": {
+            "modulePath": "Input.tsx"
+          },
+          "cssFilePath": "__internals__/untitled_project/PlasmicInput.css",
+          "scheme": "direct"
+        },
+        {
+          "id": "jOfkMhICa7",
+          "name": "ValidationResultIcon",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/untitled_project/PlasmicValidationResultIcon.tsx",
+          "importSpec": {
+            "modulePath": "ValidationResultIcon.tsx"
+          },
+          "cssFilePath": "__internals__/untitled_project/PlasmicValidationResultIcon.css",
+          "scheme": "direct"
+        },
+        {
+          "id": "iR_D-S5WQ8",
+          "name": "Spacer",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/untitled_project/PlasmicSpacer.tsx",
+          "importSpec": {
+            "modulePath": "Spacer.tsx"
+          },
+          "cssFilePath": "__internals__/untitled_project/PlasmicSpacer.css",
+          "scheme": "direct"
+        },
+        {
+          "id": "8Pj7c1BH86",
+          "name": "StreamlineIconsLink",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/cloudflare_ip_checker/PlasmicStreamlineIconsLink.tsx",
+          "importSpec": {
+            "modulePath": "StreamlineIconsLink.tsx"
+          },
+          "cssFilePath": "__internals__/cloudflare_ip_checker/PlasmicStreamlineIconsLink.css",
+          "scheme": "direct"
+        },
+        {
+          "id": "yIoAz1MvEm",
+          "name": "Link",
+          "type": "managed",
+          "projectId": "ventExTyscvZpogFdoiw6H",
+          "renderModuleFilePath": "__internals__/cloudflare_ip_checker/PlasmicLink.tsx",
+          "importSpec": {
+            "modulePath": "Link.tsx"
+          },
+          "cssFilePath": "__internals__/cloudflare_ip_checker/PlasmicLink.css",
+          "scheme": "direct"
+        }
+      ],
+      "icons": [
+        {
+          "id": "pxSJGNxRG",
+          "name": "FlourishTopLeftsvgIcon",
+          "moduleFilePath": "__internals__/untitled_project/PlasmicIcon__FlourishTopLeftsvg.tsx"
+        },
+        {
+          "id": "OIUKwqcWP",
+          "name": "FlourishRightsvgIcon",
+          "moduleFilePath": "__internals__/untitled_project/PlasmicIcon__FlourishRightsvg.tsx"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "vGne0rgn89CPN",
+        "name": "Screen",
+        "projectId": "ventExTyscvZpogFdoiw6H",
+        "contextFilePath": "__internals__/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.44"
+}

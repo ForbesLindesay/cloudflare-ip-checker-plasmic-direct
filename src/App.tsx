@@ -1,25 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+import isCloudflare from '@authentication/cloudflare-ip';
+import MainPage from './plasmic/MainPage';
+import Input from './plasmic/Input';
+import ValidationResultIcon from './plasmic/ValidationResultIcon';
+
+function getStatus(value: string) {
+  try {
+    return isCloudflare(value) ? 'valid' : 'invalid';
+  } catch (ex) {
+    return undefined;
+  }
+}
 
 function App() {
+  const [value, setValue] = useState('');
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MainPage
+      input={
+        <Input
+          placeholder="e.g. 103.21.244.0"
+          value={value}
+          onChange={(e) => setValue(e.target.value)}
+        />
+      }
+      validationResult={<ValidationResultIcon status={getStatus(value)} />}
+    />
   );
 }
 

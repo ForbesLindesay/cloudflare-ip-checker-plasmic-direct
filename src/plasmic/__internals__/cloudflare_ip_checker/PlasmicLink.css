@@ -1,0 +1,32 @@
+.Link___1__EitzE {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  position: relative;
+}
+.Link___1__EitzE:hover {
+  border-top-color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-right-color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-bottom-color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  border-left-color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-bottom-width: 2px;
+  position: relative;
+}

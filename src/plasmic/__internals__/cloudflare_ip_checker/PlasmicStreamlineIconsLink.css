@@ -1,0 +1,36 @@
+.StreamlineIconsLink___1__bP8NH {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  user-select: text;
+  text-overflow: clip;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  position: relative;
+}
+.StreamlineIconsLink___2__Ds-eg {
+  position: relative;
+  color: rgb(195, 218, 254) /* plasmic-token: 3armAo_JX */;
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+.StreamlineIconsLink___1__bP8NH:hover .StreamlineIconsLink___2__Ds-eg {
+}
+.StreamlineIconsLink___4___2Kuj.__wab_instance {
+  position: relative;
+  width: default;
+  height: default;
+}
+.StreamlineIconsLink___1__bP8NH:hover
+  .StreamlineIconsLink___4___2Kuj.__wab_instance {
+}
